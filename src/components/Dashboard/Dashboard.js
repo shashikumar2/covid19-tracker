@@ -6,7 +6,6 @@ import States from '../States/States.js'
 import DataShow from '../DataShow/DataShow.js'
 import './Dashboard.css'
 
-
 class Dashboard extends React.Component{
     constructor(){
         super()
@@ -64,7 +63,6 @@ class Dashboard extends React.Component{
                       </div>  
                    </div>   
                  </div>   
-
                  </div>                    
         )
     }

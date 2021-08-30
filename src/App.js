@@ -12,7 +12,7 @@ function App(props) {
     <div >
        <BrowserRouter>
        <Navbar bg="info" variant="dark">
-       <Navbar.Brand   href="#">COVID 19 ind- Daily Report</Navbar.Brand>        
+       <Navbar.Brand   href="#" >COVID 19 ind- Daily Report</Navbar.Brand>        
        </Navbar>
         <Dashboard/>
        </BrowserRouter>
